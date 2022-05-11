@@ -1,2 +1,2 @@
-# Calculator-Using-JS
-Basic Calculator application made with HTML,CSS &amp; Plane JavaScript
+Online calculator for quick calculations, along with a large collection of calculators on math, finance, fitness, and more, each with in-depth information. 
+application made with HTML,CSS&JavaScript
